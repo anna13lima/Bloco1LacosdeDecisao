@@ -1,0 +1,22 @@
+package LacosdeDecisao;
+
+import java.util.Scanner;
+
+public class Exercicio1 {
+
+	public static void main(String[] args) {
+		int a; b; c;
+		
+		Scanner ler = new Scanner(System.in);
+		
+		System.out.print("digite um numero: ");
+		a= ler.nextInt();
+		System.out.print("digite um numero: ");
+		b= ler.nextInt();
+		System.out.print("digite um numero: ");
+		c= ler.nextInt();
+		
+
+	}
+
+}
